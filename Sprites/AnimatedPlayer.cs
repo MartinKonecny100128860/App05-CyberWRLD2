@@ -7,6 +7,7 @@ namespace App05MonoGame.Sprites
     /// <summary>
     /// This class is an AnimatedSprite whose direction
     /// can be controlled by the keyboard in four
+    /// 
     /// directions, up, down, left and right
     /// </summary>
     /// <authors>
